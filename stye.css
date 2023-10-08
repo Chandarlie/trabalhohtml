@@ -1,0 +1,62 @@
+.col01{
+    background-color: #5D5B6A;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: left;
+    height: 15cqmax;
+    color: gold;
+    
+}
+.row02{
+    background-color: #1A472A;
+    height: 15cqmax;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: silver;
+}
+.row021{
+    background-color: #7F0909;
+    height: 15cqmax;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: gold;
+
+}
+.row03{
+    background-color: #000A90;
+    height: 15cqmax;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: silver;
+    
+}
+.row031{
+    background-color: #EEE117;
+    height: 15cqmax;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+
+}
+.row04{
+    background-color: #758184;
+    height: 15cqmax;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: gold;
+    
+}
+.row05{
+    background-color: #CFB495;
+    height: 25cqmax;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+.row06{
+    background-color: #cfb495e1;
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
